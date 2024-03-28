@@ -9,10 +9,6 @@
   <p align="center">
     Where Innovation Blends with Precision for Digital Success!
     <br/>
-    <br/>
-    <a href="https://github.com/Varinder-Dhillon0/BlueRex"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
     <a href="https://github.com/Varinder-Dhillon0/BlueRex">View Demo</a>
     .
     <a href="https://github.com/Varinder-Dhillon0/BlueRex/issues">Report Bug</a>

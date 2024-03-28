@@ -9,6 +9,7 @@
   <p align="center">
     Where Innovation Blends with Precision for Digital Success!
     <br/>
+    <br/>
     <a href="https://bluerex.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/Varinder-Dhillon0/BlueRex/issues">Report Bug</a>

@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Varinder-Dhillon0/BlueRex">
-    <img src="https://raw.githubusercontent.com/Varinder-Dhillon0/BlueRex/main/assets/BlackLogo.svg" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/Varinder-Dhillon0/BlueRex/main/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BlueRex</h3>
@@ -30,8 +30,6 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
